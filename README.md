@@ -43,13 +43,13 @@ trending repos to produce top trending programming language.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/soguazu/trending_languages.git
+   git clone https://github.com/soguazu/Trending_programming_language.git
    ```
 
 2. Change directory into the project
 
    ```sh
-   cd trending_languages
+   cd Trending_programming_language
    ```
 
 3. Run the program normally
@@ -65,7 +65,7 @@ trending repos to produce top trending programming language.
 For documentation.
 
 _For more examples, please refer to the
-[Documentation](http://localhost:3000/api/v1/docs/)_
+[Documentation](http://localhost:8080/api/v1/docs/)_
 
 <!-- LICENSE -->
 
