@@ -1,0 +1,7 @@
+node_modules
+build
+.history
+logs
+npm-debug.log
+.git
+docs
