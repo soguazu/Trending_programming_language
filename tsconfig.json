@@ -8,7 +8,7 @@
     "lib": ["dom", "esnext"] /* Specify library files to be included in the compilation. */,
     "allowJs": true /* Allow javascript files to be compiled. */,
     "outDir": "build" /* Redirect output structure to the directory. */,
-    "rootDir": "src" /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */,
+    "rootDir": "." /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */,
     "removeComments": true /* Do not emit comments to output. */,
     /* Strict Type-Checking Options */
     "strict": true /* Enable all strict type-checking options. */,
@@ -30,6 +30,6 @@ to the 'baseUrl'. */
     "skipLibCheck": true /* Skip type checking of declaration files. */,
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
   },
-  "exclude": ["node_modules", "build"],
+  "exclude": ["node_modules", "build", "docs"],
   "include": ["src"]
 }
