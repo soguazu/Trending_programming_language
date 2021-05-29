@@ -64,8 +64,8 @@ trending repos to produce top trending programming language.
 
 For documentation.
 
-_For more examples, please refer to the
-[Documentation](http://localhost:8080/api/v1/docs/)_
+please refer to the
+[Documentation](http://localhost:8080/api/v1/docs/)\_
 
 <!-- LICENSE -->
 
